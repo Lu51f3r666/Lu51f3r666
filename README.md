@@ -42,9 +42,10 @@
   <img src="https://img.shields.io/badge/Skill-H4X0R-green?style=for-the-badge">
 </p>
 
----
-
 ![541291876_801760312408761_897377146346507251_n](https://github.com/user-attachments/assets/05a3d1a3-c721-4b0b-bbab-7d2fdc3770f0)
+
+
+---
 
 ## ⚡ GITHUB METRICS
 
