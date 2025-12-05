@@ -31,6 +31,8 @@ Every line of code I touch, every system I explore, tells a story that no one wi
 ▸ Linux Sorcery
 ▸ OSINT / Info-gathering
 ▸ Git & Chaos Management
+
+ح
 ![590176740_2031255317610683_340318130074523141_n](https://github.com/user-attachments/assets/638c3843-7a24-4614-bd33-29a98d648d48)
 
 
@@ -43,6 +45,7 @@ Every line of code I touch, every system I explore, tells a story that no one wi
   <img src="https://img.shields.io/badge/Linux-Arch-black?style=for-the-badge&logo=archlinux">
   <img src="https://img.shields.io/badge/Skill-H4X0R-green?style=for-the-badge">
 </p>
+
 ![554123017_1305673244088908_4783113912760288906_n](https://github.com/user-attachments/assets/64f09e52-fae5-4dce-954a-35eef4c71fc8)
 
 ---
