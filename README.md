@@ -2,9 +2,7 @@
 <!--             Lu51f3r666                          -->
 <!-- =============================================== -->
 
-<p align="center">
-  <img src="https://i.imgur.com/7Z6T2bW.gif" width="100%" alt="dark-banner">
-</p>
+
 
 <h1 align="center">Hey, It's Lu51f3r666 👁️‍🗨️</h1>
 <p align="center"><b>Not your average dev… I move where the light don’t reach</b></p>
@@ -67,9 +65,6 @@ Every line of code I touch, every system I explore, tells a story that no one wi
 <p align="center"><i>"Alone in the crowd… only me and my laptop, writing the story of my own world."</i></p>
 <p align="center"><i>"Just me, my laptop, and the quiet world I create."</i></p>
 
-<p align="center">
-  <img src="https://i.imgur.com/8eQdWfL.gif" width="70%">
-</p>
 
 ---
 
