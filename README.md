@@ -3,7 +3,7 @@
 <!-- 🔥 DARK HACKER PROFILE — MADE FOR Lusifer_666 🔥 -->
 <!-- ================================================= -->
 
-![Uploading 589490289_3125110654336220_8572055383177333766_n.jpg…]()
+![589490289_3125110654336220_8572055383177333766_n](https://github.com/user-attachments/assets/47352aee-f44d-4faa-9b43-8903acdd01fe)
 
 
 <h1 align="center">⚡ L U S I F E R _ 6 6 6 ⚡</h1>
