@@ -1,86 +1,82 @@
-# Lusifer_666
-<!-- ================================================= -->
-<!-- 🔥 DARK HACKER PROFILE — MADE FOR Lusifer_666 🔥 -->
-<!-- ================================================= -->
+<!-- =============================================== -->
+<!--             Lu51f3r666                          -->
+<!-- =============================================== -->
 
-![589490289_3125110654336220_8572055383177333766_n](https://github.com/user-attachments/assets/47352aee-f44d-4faa-9b43-8903acdd01fe)
+<p align="center">
+  <img src="https://i.imgur.com/7Z6T2bW.gif" width="100%" alt="dark-banner">
+</p>
+
+<h1 align="center">Hey, It's Lu51f3r666 👁️‍🗨️</h1>
+<p align="center"><b>Not your average dev… I move where the light don’t reach</b></p>
+
+---
+![589490289_3125110654336220_8572055383177333766_n](https://github.com/user-attachments/assets/1a85a5c0-8130-4955-899d-210c35db0835)
+
+## 🕶️ About Me
+
+    name: Lu51f3r666
+    location: somewhere you won’t find
+    mood: Chillin' & Coffee & Cigarette & Music
+    motto: "If you see me, you’re already late"
 
 
-<h1 align="center">⚡ L U S I F E R _ 6 6 6 ⚡</h1>
-<p align="center"><b>Security Researcher • Bug Hunter • Automation Builder</b></p>
+I don’t do normal. I live in scripts, in networks, in logs nobody reads.  
+You probably think you know me… but trust me, you don’t.  
+Every line of code I touch, every system I explore, tells a story that no one will fully get.  
 
 ---
 
-## 🕶️ IDENTITY
+## ⚡ Skills & Toys
 
-    codename: Lusifer_666
-    clearance: 6-6-6
-    speciality: bug_hunting / recon / exploitation
-    mode: active
-    origin: unknown
-
-
----
-
-## ⚙️ TECH ARSENAL
-
-▸ Python / Bash
-▸ Recon & OSINT
-▸ Web Exploitation
-▸ Linux Engineering
-▸ Automation & Scripting
+▸ Python / Bash / Automation
+▸ Web Recon & Exploitation
+▸ Linux Sorcery
+▸ OSINT / Info-gathering
+▸ Git & Chaos Management
+![590176740_2031255317610683_340318130074523141_n](https://github.com/user-attachments/assets/638c3843-7a24-4614-bd33-29a98d648d48)
 
 
 ---
 
-## 🩸 STATUS BADGES
-
+## 🩸 Status
 <p align="center">
   <img src="https://img.shields.io/badge/Mode-Active-red?style=for-the-badge&logo=kalilinux">
   <img src="https://img.shields.io/badge/Status-Hunting-purple?style=for-the-badge">
   <img src="https://img.shields.io/badge/Linux-Arch-black?style=for-the-badge&logo=archlinux">
   <img src="https://img.shields.io/badge/Skill-H4X0R-green?style=for-the-badge">
 </p>
-
-![541291876_801760312408761_897377146346507251_n](https://github.com/user-attachments/assets/05a3d1a3-c721-4b0b-bbab-7d2fdc3770f0)
-
+![554123017_1305673244088908_4783113912760288906_n](https://github.com/user-attachments/assets/64f09e52-fae5-4dce-954a-35eef4c71fc8)
 
 ---
 
-## ⚡ GITHUB METRICS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lusifer_666&show_icons=true&theme=radical&hide_border=true">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lusifer_666&layout=compact&theme=radical&hide_border=true">
-</p>
-
----
-
-## 🕷️ PROJECTS FROM THE SHADOWS
+## 👁️ What I Play With
 
 | Project | Description |
 |--------|-------------|
-| **Cyber-Recon** | Automated Recon & Enumeration Engine |
-| **DarkEye OSINT** | Deep information extraction toolkit |
-| **Ghost-Scanner** | High‑speed scanning engine |
+| **ShadowRecon** | scripts that crawl where no eyes are |
+| **GhostLogger** | tracks what’s invisible |
+| **DarkScan** | finds what shouldn’t exist |
+
+*(rename them if you got real projects)*
 
 ---
 
-## 🖤 PHILOSOPHY
+## 🖤 Philosophy
+![541291876_801760312408761_897377146346507251_n](https://github.com/user-attachments/assets/eba06b08-877e-488d-9b00-8d99bbe71440)
 
-<p align="center"><i>"In the world of code, nothing is safe… unless you make it." </i></p>
+<p align="center"><i>"Alone in the crowd… only me and my laptop, writing the story of my own world."</i></p>
+<p align="center"><i>"Just me, my laptop, and the quiet world I create."</i></p>
 
-![590179368_616094048228935_2565805043261022853_n](https://github.com/user-attachments/assets/d41d3c57-ab0b-4ea1-80e0-eeca39c3906c)
-
+<p align="center">
+  <img src="https://i.imgur.com/8eQdWfL.gif" width="70%">
+</p>
 
 ---
 
-## 🌑 CONTACT (IF YOU DARE)
+## 🌑 Contact (If You Dare)
+![590179368_616094048228935_2565805043261022853_n](https://github.com/user-attachments/assets/96a5ad7c-5521-4345-b3ff-eb897abfaa1d)
 
-access: granted
+access: limited
 channels: github / twitter / encrypted
 
 
