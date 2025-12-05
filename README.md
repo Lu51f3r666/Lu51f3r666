@@ -3,9 +3,8 @@
 <!-- 🔥 DARK HACKER PROFILE — MADE FOR Lusifer_666 🔥 -->
 <!-- ================================================= -->
 
-<p align="center">
-  <img src="https://i.imgur.com/7Z6T2bW.gif" width="100%" alt="banner">
-</p>
+![Uploading 589490289_3125110654336220_8572055383177333766_n.jpg…]()
+
 
 <h1 align="center">⚡ L U S I F E R _ 6 6 6 ⚡</h1>
 <p align="center"><b>Security Researcher • Bug Hunter • Automation Builder</b></p>
